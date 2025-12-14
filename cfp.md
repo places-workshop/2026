@@ -5,20 +5,20 @@ nav_order: 10
 permalink: /cfp
 ---
 
-# PLACES 2025 Call for Papers
+# PLACES 2026 Call for Papers
 
 ## Important Dates
 
-* Abstract registration deadline: ~~20 February 2025, AoE~~  **27 February** 2025, AoE
-* Submission deadline: ~~28 February 2025, AoE~~ **7 March** 2025, AoE
-* Author notification: **10 April** 2025, AoE
-* Workshop: **4 May** 2025 in Hamilton, Canada
+* Abstract registration deadline: (~~20 February 2025, AoE~~ **27 February** 2025, AoE): #
+* Submission deadline: (~~28 February 2025, AoE~~ **7 March** 2025, AoE): #
+* Author notification: (**10 April** 2025, AoE): #
+* Workshop: **11 April** 2026 in Turin, Italy
 
 
 ## Submission Instructions
 
 
-Submission site: [https://easychair.org/conferences?conf=places2025](https://easychair.org/conferences?conf=places2025)
+Submission site: [https://easychair.org/conferences?conf=places2026](https://easychair.org/conferences?conf=places2026)
 
 
 Submissions are invited in the general area of programming language approaches
@@ -65,7 +65,7 @@ Relevant topics include, but are not limited to:
 
 
 ## Proceedings 
-The proceedings of PLACES 2025 with accepted research papers will be published
+The proceedings of PLACES 2026 with accepted research papers will be published
 as a volume of
 [EPTCS](https://eptcs.org/).
 
