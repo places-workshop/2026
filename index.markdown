@@ -10,7 +10,7 @@ nav_exclude: true
 # PLACES 2026: 17th Workshop on Programming Language Approaches to Concurrency and Communication-cEntric Software
 
 
-**4 May 2025, Hamilton, Canada**
+**11 April 2025, Turin, Italy**
 {:style="font-size:1.75em;"}
 
 _Workshop affiliated with [ETAPS 2026](https://etaps.org/2026/)_
@@ -36,5 +36,5 @@ PLACES has had 16 previous iterations; this is the 17th edition.
 (## Highlights
 
 {: .news }
-The [programme](programme-proceedings) of PLACES 2025 is now published.): #
+The [programme](programme-proceedings) of PLACES 2026 is now published.): #
 
