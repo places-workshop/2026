@@ -13,7 +13,7 @@ nav_exclude: true
 **4 May 2025, Hamilton, Canada**
 {:style="font-size:1.75em;"}
 
-_Workshop affiliated with [ETAPS 2025](https://etaps.org/2025/)_
+_Workshop affiliated with [ETAPS 2026](https://etaps.org/2026/)_
 
 [![ETAPS logo]({{ site.baseurl }}/assets/images/etaps.png "ETAPS"){:style="height:5em;"}](https://etaps.org/2025)
 
@@ -30,11 +30,11 @@ and distribution are the norm rather than a marginal concern.
 PLACES has been a satellite workshop of ETAPS since 2009, and is now well
 established as an ETAPS event.  The PLACES topic is central and combines well
 with the main conferences of ETAPS, in particular with ESOP. 
-PLACES has had 15 previous iterations; this is the 16th edition.
+PLACES has had 16 previous iterations; this is the 17th edition.
 
 
-## Highlights
+(## Highlights
 
 {: .news }
-The [programme](programme-proceedings) of PLACES 2025 is now published.
+The [programme](programme-proceedings) of PLACES 2025 is now published.): #
 
