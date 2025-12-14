@@ -7,7 +7,7 @@ title: Home
 nav_exclude: true
 ---
 
-# PLACES 2025: 16th Workshop on Programming Language Approaches to Concurrency and Communication-cEntric Software
+# PLACES 2026: 17th Workshop on Programming Language Approaches to Concurrency and Communication-cEntric Software
 
 
 **4 May 2025, Hamilton, Canada**
