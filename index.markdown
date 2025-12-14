@@ -10,7 +10,7 @@ nav_exclude: true
 # PLACES 2026: 17th Workshop on Programming Language Approaches to Concurrency and Communication-cEntric Software
 
 
-**11 April 2025, Turin, Italy**
+**11 April 2026, Turin, Italy**
 {:style="font-size:1.75em;"}
 
 _Workshop affiliated with [ETAPS 2026](https://etaps.org/2026/)_
