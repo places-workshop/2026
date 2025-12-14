@@ -33,8 +33,8 @@ with the main conferences of ETAPS, in particular with ESOP.
 PLACES has had 16 previous iterations; this is the 17th edition.
 
 
-(## Highlights
+[## Highlights
 
 {: .news }
-The [programme](programme-proceedings) of PLACES 2026 is now published.): #
+The [programme](programme-proceedings) of PLACES 2026 is now published.]: #
 

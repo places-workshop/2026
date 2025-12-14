@@ -5,13 +5,15 @@ nav_order: 40
 permalink: /programme-proceedings
 ---
 
-# PLACES 2025 Programme and Proceedings
+# PLACES 2026 Programme and Proceedings
 
 {: .proceedings }
-The pre-final version of the PLACES 2025 proceedings is available [here](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?PLACES2025).
+TBA
+[The pre-final version of the PLACES 2025 proceedings is available [here](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?PLACES2025).]: #
 
-**4 May 2025**<br>
-**[Michael DeGroote Centre for Learning and Discovery (MDCL)](https://maps.app.goo.gl/n5xBFFa9BjCy68EZ6), Room: MDCL 1116**
+**11 April 2026**<br>
+TBA
+[**[Michael DeGroote Centre for Learning and Discovery (MDCL)](https://maps.app.goo.gl/n5xBFFa9BjCy68EZ6), Room: MDCL 1116**
 {:style="font-size:1.5em;"}
 
 
@@ -145,4 +147,4 @@ The talk is meant to be informal and spur discussion.
 <strong>Zoom link:</strong>
 Meeting ID: 949 9852 0111<br>
 Passcode: 774266
-</p>
+</p>]: #
