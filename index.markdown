@@ -1,4 +1,4 @@
----
+﻿---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
@@ -32,9 +32,9 @@ established as an ETAPS event.  The PLACES topic is central and combines well
 with the main conferences of ETAPS, in particular with ESOP. 
 PLACES has had 16 previous iterations; this is the 17th edition.
 
-
+---
 [## Highlights
 
 {: .news }
 The [programme](programme-proceedings) of PLACES 2026 is now published.]: #
-
+---
