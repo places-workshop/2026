@@ -22,6 +22,7 @@ permalink: /committees
 - [Paola Giannini](https://people.unipmn.it/giannini/), Computer Science Institute, DiSSTE, Universita' del Piemonte Orientale, IT
 - [Eva Graversen](https://taltech.ee/en/contacts/laboratory-compositional-systems-and-methods/eva-fajstrup-graversen), Tallinn University of Technology, EE
 - [Andreia Mordido](https://www.di.fc.ul.pt/~amordido/), LASIGE, PT
+- [Rumyana Neykova](https://www.brunel.ac.uk/people/rumyana-neykova/), Brunel University of London, GB
 - [Emilio Tuosto](https://cs.gssi.it/emilio.tuosto/), Gran Sasso Science Institute, IT
 - [Shoji Yuen](https://profs.provost.nagoya-u.ac.jp/html/100001809_en.html), Nagoya University, JP
 
