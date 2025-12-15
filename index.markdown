@@ -31,10 +31,3 @@ PLACES has been a satellite workshop of ETAPS since 2009, and is now well
 established as an ETAPS event.  The PLACES topic is central and combines well
 with the main conferences of ETAPS, in particular with ESOP. 
 PLACES has had 16 previous iterations; this is the 17th edition.
-
----
-[## Highlights
-
-{: .news }
-The [programme](programme-proceedings) of PLACES 2026 is now published.]: #
----
