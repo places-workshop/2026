@@ -5,27 +5,25 @@ nav_order: 20
 permalink: /committees
 ---
 
-# PLACES 2025 Committees
+# PLACES 2026 Committees
 
 ## Programme Chairs
 
-- [Farzaneh Derakhshan](http://gauss.cs.iit.edu/~fderakhshan/), Illinois Institute of Technology, US
-- [Jan Hoffmann](https://cs.cmu.edu/~janh/), Carnegie Mellon University, US
+- [Lorenzo Gheri](https://sites.google.com/view/lorgheri/home), University of Liverpool, UK
+- [Kirstin Peters](https://www.uni-augsburg.de/en/fakultaet/fai/informatik/prof/swtti/team/kirstin-peters/), Universität Augsburg, DE
 
 
 ## Programme Committee
 
-- [Pedro Ângelo](https://scholar.google.fr/citations?user=pR9nEoEAAAAJ&hl=fr), Universidade de Lisboa, PT
-- [Tiago Cogumbreiro](https://cogumbreiro.github.io/), UMASS Boston, US
-- [Adrian Francalanza](https://staff.um.edu.mt/afra1/), Malta University, MT
-- [Silvia Ghilezan](https://imft.ftn.uns.ac.rs/~silvia/), University of Novi Sad, RS
-- [Raymond Hu](https://www.qmul.ac.uk/eecs/people/profiles/huraymond.html), Queen Mary University of London, UK
-- [Jules Jacobs](https://julesjacobs.com/), Cornell University, US
-- [Elaine Li](https://efl9013.github.io/), New York University, US
-- [Andreia Mordido](https://www.di.fc.ul.pt/~amordido/), University of Lisbon, PT
-- [Klaas Pruiksma](https://www.sec.uni-stuttgart.de/institute/team/Pruiksma/), University of Stuttgart, DE
-- [Lukasz Ziarek](https://cse.buffalo.edu/~lziarek/), University at Buffalo, US
-
+- [Marco Carbone](https://carbonem.github.io/), IT University of Copenhagen, DK
+- [David Castro-Perez](https://www.kent.ac.uk/school-of-computing/people/3664/castro-perez-david), University of Kent, UK
+- [Cinzia Di Giusto](https://webusers.i3s.unice.fr/~cdigiusto/web/), Université Côte d'Azur, CNRS, I3S, FR
+- [Adrian Francalanza](https://www.um.edu.mt/profile/adrianfrancalanza), University of Malta, MT
+- [Paola Giannini](https://people.unipmn.it/giannini/), Computer Science Institute, DiSSTE, Universita' del Piemonte Orientale, IT
+- [Eva Graversen](https://taltech.ee/en/contacts/laboratory-compositional-systems-and-methods/eva-fajstrup-graversen), Tallinn University of Technology, EE
+- [Andreia Mordido](https://www.di.fc.ul.pt/~amordido/), LASIGE, PT
+- [Emilio Tuosto](https://cs.gssi.it/emilio.tuosto/), Gran Sasso Science Institute, IT
+- [Shoji Yuen](https://profs.provost.nagoya-u.ac.jp/html/100001809_en.html), Nagoya University, JP
 
 
 ## Organising Committee
