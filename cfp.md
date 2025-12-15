@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: Call for Papers
 nav_order: 10
@@ -9,7 +9,7 @@ permalink: /cfp
 
 ## Important Dates
 
-* Abstract registration deadline: [~~20 February 2025, AoE~~ **27 February** 2025, AoE]: #
+* Abstract registration deadline: ciao [~~20 February 2025, AoE~~ **27 February** 2025, AoE]: #
 * Submission deadline: [~~28 February 2025, AoE~~ **7 March** 2025, AoE]: #
 * Author notification: [**10 April** 2025, AoE]: #
 * Workshop: **11 April** 2026 in Turin, Italy
