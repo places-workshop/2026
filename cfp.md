@@ -9,8 +9,8 @@ permalink: /cfp
 
 ## Important Dates
 
-* Abstract registration deadline: **23 January** 2026, AoE
-* Submission deadline: **30 January** 2026, AoE
+* Abstract registration deadline: **23 January** 2026, AoE **30 January** 2026, AoE
+* Submission deadline: **30 January** 2026, AoE **06 February** 2026, AoE
 * Author notification: **08 March** 2026, AoE
 * Workshop: **11 April** 2026 in Turin, Italy
 
@@ -69,4 +69,5 @@ The proceedings of PLACES 2026 with accepted research papers will be published
 as a volume of
 [EPTCS](https://eptcs.org/).
 
-
+## Special issue
+The very best papers will be invited in a special issue of JLAMP.
