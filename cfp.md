@@ -69,5 +69,5 @@ The proceedings of PLACES 2026 with accepted research papers will be published
 as a volume of
 [EPTCS](https://eptcs.org/).
 
-## Special issue
+## Special Issue
 The very best papers will be invited in a special issue of JLAMP.
