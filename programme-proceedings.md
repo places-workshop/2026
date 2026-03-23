@@ -150,6 +150,10 @@ Room TBA
 <a name="keynote1"></a>
 <strong>Keynote Talk:</strong> <em>Simple MultiParty Sessions: a different perspective on multiparty session types</em>
 </p>
+<p>
+<em>Abstract.</em>
+    Choreographic formalisms provide a modelling approach for concurrent and distributed systems. These formalisms are characterised by the coexistence of two distinct views: the global view and the local view. The Simple MultiParty Sessions (SMPS) framework, which is orthogonal to the well-known MultiParty Session Types (MPST) framework, has recently been introduced. In the SMPS framework, global types are assigned to systems of processes via typing, whereas in the MPST framework, they are projected to local types for processes. After providing an accessible presentation of the SMPS framework, we illustrate its correspondences with MPST. We then discuss how relevant issues in multiparty systems with sessions have been investigated within this framework, ranging from internal delegation and asynchronous communications to partial global types and the use of extension to mixed choice.
+</p>
 
 <p>
 <a href="https://web.dmi.unict.it/docenti/franco.barbanera">Franco Barbanera</a> <em>(Università di Catania)</em>
