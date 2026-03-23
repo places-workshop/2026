@@ -37,7 +37,7 @@ Room TBA
     </tr>
     <tr>
         <td class="time">10:30-10:55</td>
-        <td rowspan="5">Session:<br>Probabilities and Choice<br><br>Chair: TBA</td>
+        <td rowspan="5">Session:<br>Probabilities and Choice<br><br>Chair: Paola Giannini</td>
         <td>
           Haoran Yang and Nobuko Yoshida<br>
           <em>Generating Local Shields for Decentralised Partially Observable Markov Decision Processes</em>
