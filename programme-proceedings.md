@@ -28,7 +28,7 @@ Room TBA
         <td>
           <strong><a href="https://web.dmi.unict.it/docenti/franco.barbanera">Franco Barbanera</a></strong>,
           Università di Catania<br>
-          <strong><em>TBA</em></strong>
+          <em>Simple MultiParty Sessions: a different perspective on multiparty session types</em>
         </td>
     </tr>
     <tr class="break">
@@ -148,7 +148,7 @@ Room TBA
 </table>
 <p>
 <a name="keynote1"></a>
-<strong>Keynote Talk:</strong> <em>TBA</em>
+<strong>Keynote Talk:</strong> <em>Simple MultiParty Sessions: a different perspective on multiparty session types</em>
 </p>
 
 <p>
