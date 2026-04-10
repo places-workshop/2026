@@ -8,7 +8,7 @@ permalink: /programme-proceedings
 # PLACES 2026 Programme and Proceedings
 
 {: .proceedings }
-The pre-final version of the PLACES 2025 proceedings is available [here](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?PLACES2025).
+The PLACES 2025 proceedings are available [here](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?PLACES2025).
 
 **11 April 2026**<br>
 ITS Torino, Via Jacopo Durandi 10, Turin<br>
@@ -144,7 +144,7 @@ Room 15+12
     </tr>
     <tr>
         <td class="time">from 19:30</td>
-        <td colspan="2">organised Dinner at the [venue](https://ristorantelapiazza.com/home/)</td>
+        <td colspan="2">organised Dinner at the venue (https://ristorantelapiazza.com/home/)</td>
     </tr>
 </table>
 <p>
