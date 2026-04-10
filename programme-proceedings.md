@@ -78,7 +78,7 @@ Room 15+12
     </tr>
   <tr>
         <td class="time">14:00-14:25</td>
-        <td rowspan="5">Session:<br>Applications and Extensions<br><br>Chair: TBA</td>
+        <td rowspan="5">Session:<br>Applications and Extensions<br><br>Chair: Kirstin Peters</td>
         <td>
           Gianluca Torta, Giorgio Audrito, Andrea Basso, Daniele Bortoluzzi, Ferruccio Damiani and Giordano Scarso<br>
           <em>Exploiting Aggregate Programming in a Multi-Robot Service Prototype</em>
@@ -118,7 +118,7 @@ Room 15+12
     </tr>
     <tr>
         <td class="time">16:30-16:50</td>
-        <td rowspan="3">Session:<br>Mechanisation and Implementation<br><br>Chair: TBA</td>
+        <td rowspan="3">Session:<br>Mechanisation and Implementation<br><br>Chair: Kirstin Peters</td>
         <td>
          Michael Terry and Nobuko Yoshida<br>
           <em>Borrowing Multiparty Session Types in Rust</em>
