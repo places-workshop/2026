@@ -78,7 +78,7 @@ Room 15+12
     </tr>
   <tr>
         <td class="time">14:00-14:25</td>
-        <td rowspan="5">Session:<br>Applications and Extensions<br><br>Chair: Kirstin Peters</td>
+        <td rowspan="5">Session:<br>Applications and Extensions<br><br>Chair: Ugo de' Liguoro</td>
         <td>
           Gianluca Torta, Giorgio Audrito, Andrea Basso, Daniele Bortoluzzi, Ferruccio Damiani and Giordano Scarso<br>
           <em>Exploiting Aggregate Programming in a Multi-Robot Service Prototype</em>
